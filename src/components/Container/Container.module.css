@@ -1,0 +1,15 @@
+.form__container {
+  padding: 20px;
+  background-color: aqua;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+
+  box-shadow: 7px 7px 14px #cccccc, -7px -7px 14px #f4f4f4;
+}
+
+.form__text {
+  font-size: 50px;
+  color: rgb(69, 67, 67);
+}
