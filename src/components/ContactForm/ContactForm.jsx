@@ -66,5 +66,5 @@ export const Form = ({ addContactsData }) => {
 };
 
 Form.propTypes = {
-  onSubmit: PropTypes.func.isRequired,
+  addContactsData: PropTypes.func.isRequired,
 };
